@@ -1,0 +1,70 @@
+header{
+    height: auto;
+width: 900px;
+padding: 30px;
+margin:20px;
+border:2px solid black;
+background:linear-gradient(#c1cf00 0%, #008000 90% )  ;
+border-radius: 30px 30px 30px 30px ;
+position:absolute;
+color:white;
+}
+.historia{
+height: 590px;
+width: 900px;
+padding: 30px;
+margin:20px;
+border:2px solid black;
+background:linear-gradient(#008000 0%, #c1cf00c7 90% )  ;
+border-radius: 30px 30px 30px 30px ;
+
+}
+.imagencocktail{
+ width:400px;
+ height:100;
+float:left;
+margin: 0px 5px;
+/*Aunque la utilidad de float no la hemos dado he decidico incorporarla ya que loq ue hace es auto-ajustar el texto al rededor de la imagen y quedaa genial!*/
+
+}
+body{
+ padding:8%;
+ background-image:url(cocktail-seamless-pattern-hand-drawn-alcohol-drinks-cocktails-with-different-glasses-and-goblets-wallpaper-bar-menu-vintage-texture-vector.jpg) ;
+
+}
+
+.Luis{
+    height: auto;
+width: 900px;
+padding: 30px;
+margin:20px;
+border:2px solid black;
+background:linear-gradient(#c1cf00ce 0%, #008000f3 90% )  ;
+border-radius: 30px 30px 30px 30px ;
+position:absolute;
+text-align:center;
+font-family: Arial, sans-serif;
+}
+.imagenluis{
+ 
+    width: 20;
+    height: 300px;
+}
+.letras{
+    color:rgb(0, 0, 0)
+}
+footer{
+    height: 13%;
+width: 200px;
+padding: 40px;
+margin:450px;
+border:2px solid black;
+background:linear-gradient(#c1cf00ce 0%, #008000f3 90% )  ;
+border-radius: 1000%;
+position:fixed;
+text-align:center;
+bottom:10%;
+margin-inline-start: 1000px;
+
+}
+

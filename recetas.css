@@ -1,0 +1,46 @@
+body{
+    background-image:url(cocktail-seamless-pattern-hand-drawn-alcohol-drinks-cocktails-with-different-glasses-and-goblets-wallpaper-bar-menu-vintage-texture-vector.jpg) ;
+}
+header{
+    height: auto;
+width: 900px;
+padding: 50px;
+margin: 0 200px;
+border:2px solid black;
+background:linear-gradient(#c1cf00 0%, #008000 90% )  ;
+border-radius: 30px 30px 30px 30px ;
+color:white;
+
+
+
+}
+.Video{
+    height: 400px;
+width: 900px;
+padding: 50px;
+margin:200px ;
+border:2px solid black;
+background:linear-gradient(#008000d8 0%, #c1cf00c7 90% )  ;
+border-radius: 30px 30px 30px 30px ;
+text-align: center;
+float:left;
+
+}
+table, th, td{
+    border:2px solid black;
+    border-collapse:collapse;
+    text-align: center;
+    position:relative;
+    margin:170px;
+    
+}
+th, td{
+    padding:30px;
+  
+}
+th{
+    background:linear-gradient(rgb(0, 47, 255) 2%, rgb(0, 204, 255) 20%, rgb(111, 0, 255) 90%)
+}
+td{
+    background:linear-gradient(rgb(141, 0, 118) 2%, rgb(255, 68, 215) 20%, rgb(255, 0, 128) 90%)
+}
